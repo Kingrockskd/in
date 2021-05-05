@@ -1,0 +1,12 @@
+#t1,table{
+  background-color: yellow;
+
+}
+#t1:hover{
+  background-color: grey;
+
+}
+
+table:hover{
+  background-color: #ff2f40;
+}
